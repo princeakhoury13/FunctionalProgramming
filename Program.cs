@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            QnR.FindQnR();
+            Swap.SwapNumbers();
         }
     }
 }
