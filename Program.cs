@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            Swap.SwapNumbers();
+            EvenOdd.EvenOrOdd();
         }
     }
 }
